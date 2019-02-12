@@ -1,2 +1,0 @@
-# GYDelete
-Created with CodeSandbox
